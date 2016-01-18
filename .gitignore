@@ -1,0 +1,19 @@
+syntax: glob
+**nbproject/private/*
+**target/*
+**TEST-*.*
+**.sbas/*
+*.class
+*.orig
+.sass-cache
+.tmp
+bin
+bower_components
+build
+dist
+nbproject/private
+node_modules
+vendor
+.idea
+coverage
+
